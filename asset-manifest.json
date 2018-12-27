@@ -1,0 +1,15 @@
+{
+  "main.css": "/moodchart/static/css/main.7b4d2a09.chunk.css",
+  "main.js": "/moodchart/static/js/main.cf3f022c.chunk.js",
+  "main.js.map": "/moodchart/static/js/main.cf3f022c.chunk.js.map",
+  "static/css/1.742fed1b.chunk.css": "/moodchart/static/css/1.742fed1b.chunk.css",
+  "static/js/1.bb530561.chunk.js": "/moodchart/static/js/1.bb530561.chunk.js",
+  "static/js/1.bb530561.chunk.js.map": "/moodchart/static/js/1.bb530561.chunk.js.map",
+  "runtime~main.js": "/moodchart/static/js/runtime~main.54109f41.js",
+  "runtime~main.js.map": "/moodchart/static/js/runtime~main.54109f41.js.map",
+  "static/css/1.742fed1b.chunk.css.map": "/moodchart/static/css/1.742fed1b.chunk.css.map",
+  "static/css/main.7b4d2a09.chunk.css.map": "/moodchart/static/css/main.7b4d2a09.chunk.css.map",
+  "index.html": "/moodchart/index.html",
+  "precache-manifest.89db4546dde5bd4ab1d7d16f4c3f1d57.js": "/moodchart/precache-manifest.89db4546dde5bd4ab1d7d16f4c3f1d57.js",
+  "service-worker.js": "/moodchart/service-worker.js"
+}
